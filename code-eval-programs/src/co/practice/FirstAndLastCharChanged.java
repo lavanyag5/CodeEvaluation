@@ -20,5 +20,5 @@ public class FirstAndLastCharChanged {
 }
 
 //OUTPUT
-// Scenario 1 -> input 1 -> abcd -> result : dbca
-// Scenario 2 -> input 2 -> code -> result : eodc
+// Scenario 1 -> input 1 -> abcd -> Result : dbca
+// Scenario 2 -> input 2 -> code -> Result : eodc
