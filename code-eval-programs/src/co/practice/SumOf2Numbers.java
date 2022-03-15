@@ -1,8 +1,8 @@
-package co.practice;
-
 /*
  * 1. Pass 2 ints as parameter and return the sum of numbers
  */
+
+package co.practice;
 
 public class SumOf2Numbers {
 
@@ -18,5 +18,5 @@ public class SumOf2Numbers {
 }
 
 //OUTPUT
-//input (4,8) -> Result : 12
-// input (10,-8) -> Result : 2
+// Scenario 1 -> input (4,8) -> Result : 12
+// Scenario 2 -> input (10,-8) -> Result : 2
